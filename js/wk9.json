@@ -31,7 +31,6 @@
       },
       "opacity":{"value":0.4},
       "size": {"value":15},
-      "size": {"value":10},
       "tooltip": [
         {"field": "LGA_NAME", "type": "nominal", "title": "Suburb"},
         {"field": "DAY_OF_WEEK", "type": "nominal", "title": "dow"}
