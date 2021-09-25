@@ -29,6 +29,7 @@
         "field": "LATITUDE",
         "type": "quantitative"
       },
+      "color": {"field": "LGA_NAME"},
       "opacity":{"value":0.4},
       "size": {"value":15},
       "tooltip": [
